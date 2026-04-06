@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>GeminiStreamingDemo</AssemblyName>
+  </PropertyGroup>
+  <!-- No NuGet packages needed — built-in .NET libraries only -->
+</Project>
